@@ -1,10 +1,7 @@
 # Node JS and MongoDB Learning 
 
-<<<<<<< HEAD
-## This application doesn't have any layout, so I strongly recommend that you use Insomni##
-=======
 ## This application doesn't have any layout, so I strongly recommend that you use Insomnia
->>>>>>> Updated README.md
+
 
 At this project I started to study Node.
 Isn't adavanced stuff but there are essencial principles 
